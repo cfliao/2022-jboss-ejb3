@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-ejb3-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../2022-jboss-ejb3/target/jboss-ejb3-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
